@@ -1,5 +1,5 @@
 prefix = "tc"
-lab-role-arn = "arn:aws:iam::653481844271:role/LabRole"
+lab-role-arn = "arn:aws:iam::829528079123:role/LabRole"
 
 # VPC
 vpc_cidr_block = "10.0.0.0/16"

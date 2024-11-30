@@ -7,7 +7,7 @@ terraform {
 
   # NOTA: Necessário ter o bucket criado.
   backend "s3" {
-    bucket = "tc-infra-cloud-bucket"
+    bucket = "pediaqui-infra-cloud-bucket"
     key = "terraform.tfstate"
     region = "us-east-1"
   }
